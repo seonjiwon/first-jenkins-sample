@@ -1,3 +1,5 @@
 spring:
   application:
     name: first-jenkins-sample
+
+message: ${hello:기본메시지}
